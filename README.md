@@ -1,69 +1,63 @@
 <div align="center">
-  <img src="./hero.png" alt="Sattwik Das - Hero Banner" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=Sattwik-Das&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
 <br/>
 
-<h1 align="center">Hi there, I'm Sattwik Das 👋</h1>
+<img align="left" src="./hero.png" width="420" alt="Sattwik Das" />
 
-<h3 align="center">A passionate developer crafting beautiful experiences</h3>
+# Hi there, I'm Sattwik Das 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sattwik-Das&label=Profile%20views&color=0e75b6&style=flat" alt="Sattwik-Das" />
-  <a href="https://github.com/Sattwik-Das?tab=followers"><img src="https://img.shields.io/github/followers/Sattwik-Das?label=Followers&style=flat&color=success" alt="Followers" /></a>
+I am a Software Engineer focused on building robust, scalable, and high-performance applications. I specialize in system architecture and modern web development, with a strong emphasis on writing clean, maintainable code.
+
+### 🔗 Connect With Me
+
+<p>
+  <!-- Replace the href links with your actual profile links -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-<p align="center">
-  I am a developer who loves building innovative solutions and experimenting with new technologies. I enjoy solving complex problems and turning ideas into reality through clean, efficient code.
-</p>
-
----
 
 ### 🚀 About Me
-- 🔭 I’m currently working on some exciting projects.
-- 🌱 I’m constantly learning and exploring modern frameworks and architecture.
-- 👯 I’m looking to collaborate on open-source projects and creative ideas.
-- 💬 Ask me about **programming, web development, and tech trends**.
-- 📫 How to reach me: **[Add your email here]**
-- 📄 Know about my experiences: **[Add link to your resume here]**
+
+- 🔭 Currently working on scalable architectures and modern web technologies.
+- 🌱 Continuously learning and exploring best practices in software engineering.
+- 💬 Ask me about **Web Development, Systems Design, and Programming**.
+
+<br clear="both"/>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Technical Stack
 
-<p align="left">
-  <!-- Customize your tech stack icons here -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sattwik-Das&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sattwik-Das's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sattwik-Das&theme=radical&hide_border=true&background=0D1117" alt="Sattwik-Das's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sattwik-Das&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sattwik-Das&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sattwik-Das&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sattwik-Das&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </div>
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <!-- Update these links with your actual profiles -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
