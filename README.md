@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./hero.png" alt="Sattwik Das - Hero Banner" width="100%" />
+</div>
+
+<br/>
+
 <h1 align="center">Hi there, I'm Sattwik Das 👋</h1>
 
 <h3 align="center">A passionate developer crafting beautiful experiences</h3>
