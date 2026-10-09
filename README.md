@@ -11,15 +11,17 @@ I am a Software Engineer focused on building robust, scalable, and high-performa
 ### 🔗 Connect With Me
 
 <p>
-  <!-- Replace the href links with your actual profile links -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sattwik-das-in/" target="_blank">
+    <img src="./logo/linkdin.png" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.instagram.com/_sattwikdas_/" target="_blank">
+    <img src="./logo/insta.png" alt="Instagram" width="40" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.facebook.com/share/19ht6ju7Uz/" target="_blank">
+    <img src="./logo/facebook.png" alt="Facebook" width="40" />
+  </a>
+  <a href="mailto:sattwik122006@gmail.com" target="_blank">
+    <img src="./logo/gmail.png" alt="Email" width="40" />
   </a>
 </p>
 
