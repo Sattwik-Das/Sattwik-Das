@@ -3,7 +3,6 @@
 </div>
 <br/>
 
-<img align="left" src="./hero.png" width="420" alt="Sattwik Das" />
 
 # Hi there, I'm Sattwik Das 👋
 
