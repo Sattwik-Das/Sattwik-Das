@@ -12,16 +12,16 @@ I am a Software Engineer focused on building robust, scalable, and high-performa
 
 <p>
   <a href="https://www.linkedin.com/in/sattwik-das-in/" target="_blank">
-    <img src="./logo/linkdin.png" alt="LinkedIn" width="40" />
+    <img src="./logo/linkedin_logo_transparent.png" alt="LinkedIn" width="40" />
   </a>
   <a href="https://www.instagram.com/_sattwikdas_/" target="_blank">
-    <img src="./logo/insta.png" alt="Instagram" width="40" />
+    <img src="./logo/instagram_logo_transparent.png" alt="Instagram" width="40" />
   </a>
   <a href="https://www.facebook.com/share/19ht6ju7Uz/" target="_blank">
-    <img src="./logo/facebook.png" alt="Facebook" width="40" />
+    <img src="./logo/facebook_logo_transparent.png" alt="Facebook" width="40" />
   </a>
   <a href="mailto:sattwik122006@gmail.com" target="_blank">
-    <img src="./logo/gmail.png" alt="Email" width="40" />
+    <img src="./logo/gmail_logo_transparent.png" alt="Email" width="40" />
   </a>
 </p>
 
